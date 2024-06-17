@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@jest/create-cache-key-function": "^29.2.1",
-    "@react-native-community/cli": "11.3.10",
+    "@react-native-community/cli": "12.0.0",
     "@react-native-community/cli-platform-android": "11.3.10",
     "@react-native-community/cli-platform-ios": "11.3.10",
     "@react-native/assets-registry": "^0.72.0",
@@ -112,7 +112,7 @@
     "stacktrace-parser": "^0.1.10",
     "use-sync-external-store": "^1.0.0",
     "whatwg-fetch": "^3.0.0",
-    "ws": "^6.2.2",
+    "ws": "^8.17.1",
     "yargs": "^17.6.2"
   },
   "codegenConfig": {
